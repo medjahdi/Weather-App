@@ -52,7 +52,7 @@ Visit `http://localhost:3000` in your browser to access the app.
 If you find this project useful, consider supporting its development:
 
 <p align="center">
-   <a href="https://www.paypal.me/medjahdi">
+   <a href="https://www.paypal.com/ncp/payment/W5SHTZX6LZH86">
       <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="PayPal - The safer, easier way to pay online">
    </a>
 </p>
