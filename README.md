@@ -3,7 +3,7 @@
 A simple weather application that provides weather data based on user input.
 
 <p align="center">
-   <img src="https://raw.githubusercontent.com/medjahdi/weather-app/main/demo/0001.png" alt="Weather App Demo" width="600">
+   <img src="https://github.com/medjahdi/Weather-App/blob/main/0001.png" alt="Weather App Demo" width="600">
 </p>
 
 ## Installation
